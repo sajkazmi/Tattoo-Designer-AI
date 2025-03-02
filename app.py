@@ -6,7 +6,7 @@ import os
 
 app = FastAPI()
 
-API_KEY = "SG_c4cc748f6bc39daf"
+API_KEY = "API_KEY"
 API_URL = "https://api.segmind.com/v1/flux-schnell"
 OUTPUT_DIR = "generated_tattoos"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
