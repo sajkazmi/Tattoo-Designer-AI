@@ -1,8 +1,8 @@
-🎨 Tattoo Designer AI
+# 🎨 Tattoo Designer AI
 
 Welcome to Tattoo Designer AI — a sleek, AI-powered tattoo design generator! Let your creativity flow and generate custom tattoo designs with ease.
 
-✨ Features
+# Features
 
 Custom Tattoo Designs: Create AI-generated tattoos by providing prompts and styles.
 
@@ -12,7 +12,7 @@ Interactive UI: Clean HTML, CSS, and JS interface.
 
 Particle Effects: Cool particle.js background for an engaging user experience.
 
-📦 Project Structure
+# Project Structure
 
 Tattoo-Designer-AI/
 ├── app.py                     # Main FastAPI app
@@ -21,7 +21,7 @@ Tattoo-Designer-AI/
 ├── README.md                  # Project documentation
 └── .gitignore                 # Git ignore file
 
-🚀 Getting Started
+# Getting Started
 
 Prerequisites
 
@@ -37,22 +37,22 @@ Requests
 
 Installation
 
-Clone the repo:
+# Clone the repo:
 
 $ git clone https://github.com/sajkazmi/Tattoo-Designer-AI.git
 $ cd Tattoo-Designer-AI
 
-Install dependencies:
+# Install dependencies:
 
 $ pip install -r requirements.txt
 
-Run the app:
+# Run the app:
 
 $ python app.py
 
 Visit http://127.0.0.1:8000 in your browser — the app will auto-launch!
 
-🖌️ How to Use
+# How to Use
 
 Enter a tattoo prompt (e.g., 'dragon wrapped around a sword').
 
@@ -62,7 +62,7 @@ Click Generate Tattoo — and let AI do the magic!
 
 Your design will be saved to the generated_tattoos/ folder.
 
-🌟 Technologies Used
+# Technologies Used
 
 Python (FastAPI, Uvicorn)
 
@@ -72,7 +72,7 @@ Particle.js (Background effect)
 
 Segmind API (Tattoo generation)
 
-🔥 Contributing
+# Contributing
 
 Contributions are welcome! If you'd like to improve this project:
 
@@ -86,7 +86,7 @@ Push to the branch (git push origin feature/your-feature)
 
 Open a Pull Request
 
-📧 Contact
+# Contact
 
 Created by Sajeel Kazmi. Feel free to connect and share feedback!
 
