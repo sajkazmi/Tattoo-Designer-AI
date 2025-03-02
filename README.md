@@ -35,18 +35,18 @@ Uvicorn
 
 Requests
 
-Installation
+# Installation
 
-# Clone the repo:
+Clone the repo:
 
 $ git clone https://github.com/sajkazmi/Tattoo-Designer-AI.git
 $ cd Tattoo-Designer-AI
 
-# Install dependencies:
+Install dependencies:
 
 $ pip install -r requirements.txt
 
-# Run the app:
+Run the app:
 
 $ python app.py
 
